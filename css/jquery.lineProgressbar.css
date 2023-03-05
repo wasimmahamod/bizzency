@@ -1,0 +1,33 @@
+/** Progressbar class css*/
+.progressbar {
+    width: 100%;
+	margin-top: 5px;
+	margin-bottom: 35px;
+	position: relative;
+	background-color: #EEEEEE;
+	box-shadow: inset 0px 1px 1px rgba(0,0,0,.1);
+	transform:rotate(180deg);
+    -ms-transform:rotate(180deg); /* IE 9 */
+    -moz-transform:rotate(180deg); /* Firefox */
+    -webkit-transform:rotate(180deg); /* Safari and Chrome */
+    -o-transform:rotate(180deg); /* Opera */
+}
+
+.proggress{
+	height: 8px;
+	width: 10px;
+	background-color: #3498db;
+}
+
+.percentCount{
+	float:right;
+	margin-top: 10px;
+	clear: both;
+	font-weight: bold;
+	font-family: Arial;
+	transform:rotate(180deg);
+    -ms-transform:rotate(180deg); /* IE 9 */
+    -moz-transform:rotate(180deg); /* Firefox */
+    -webkit-transform:rotate(180deg); /* Safari and Chrome */
+    -o-transform:rotate(180deg); /* Opera */
+}

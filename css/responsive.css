@@ -1,0 +1,1972 @@
+@media (max-width: 575px){
+
+    /*===================== 
+navbar-part start
+====================  */
+    #header-top{
+        height: 70px;
+        padding-top: 10px;
+    }
+
+    #header-top .wel{
+        line-height: 0;
+    }
+
+    #header-top .t-c{
+        text-align: center !important;
+    }
+
+    nav{
+        height: 86px;
+    }
+
+    .navbar-collapse{
+        z-index: 222;
+    }
+
+    .navbar{
+        padding: 20px 10px;
+    }
+
+    .navbar .navbar-nav{
+        text-align: center;
+        margin-top: 5px;
+        display: block;
+        background: #ffffff;
+    }
+
+    .navbar .icon{
+        text-align: center;
+        margin-top: 0;
+        background: #ffffff;
+        padding-bottom: 20px;
+    }
+
+    .srch-box input{
+        width: 100%;
+    }
+
+    .srch-box button{
+      left: 90%;
+
+    }
+
+    .srch-box .closebtn{
+        right: 15px;
+    }
+
+    .navbar-toggler{
+        padding: 5px;
+    }
+
+    .navbar .navbar-nav{
+        margin-top: 20px;
+    }
+
+    .navbar ul li{
+        padding: 3px 12px;
+        float: none;
+    }
+
+    /*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+banner-part start 
+====================  */
+#banner-part .banner-text2{
+    font-size: 65px;
+}
+
+#banner-part .banner-text3{
+    letter-spacing: 11px;
+    font-size: 25px;
+}
+
+#banner-part .banner-details{
+    width: 305px;
+}
+
+#banner-part{
+   padding-top: 54px;
+   padding-bottom: 59px;
+}
+/*===================== 
+banner-part end 
+====================  */
+
+/*===================== 
+about-part start 
+====================  */
+
+#about-part{
+    margin-top: 47px;
+}
+
+#about-part .who{
+    text-align: center;
+}
+
+#about-part .about{
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+#about-part .about-details{
+    padding: 0 8px;
+}
+
+#about-part .about-btn{
+    margin-left: 9px;
+    margin-right: 0;
+}
+
+#about-part img{
+    margin-top: 20px;
+}
+
+/*===================== 
+about-part end
+====================  */
+
+/*===================== 
+skill-part starts
+====================  */
+
+#skill-part{
+    background: #ffffff;
+    margin-top: 43px;
+}
+
+#skill-part .what{
+    text-align: center;
+}
+
+#skill-part .skill{
+    text-align: center;
+    margin-bottom: 13px;
+}
+
+#skill-part .skill-details{
+    text-align: center;
+}
+
+#skill-part .bar-r{
+    width: 100%;
+    right: 0;
+}
+/*===================== 
+skill-part end
+====================  */
+
+/*===================== 
+ourservice-part start
+====================  */
+
+#service-part{
+    padding-top: 54px;
+    padding-bottom: 0px;
+}
+
+.ser{
+    padding-right: 0;
+    margin-top: 20px;
+}
+
+.ser:hover .service-overlay{
+    width: 100%;
+}
+
+.service-item .icon-details .ui{
+    padding-bottom: 0;
+}
+
+#counter-part{
+    margin-top: 50px;
+}
+
+#counter-part .m-t{
+    margin-top: 30px;
+}
+
+#counter-part span{
+    font-size: 20px;
+}
+/*===================== 
+ourservice-part end
+====================  */
+
+/*===================== 
+team-part start
+====================  */
+
+#team-part{
+    margin-top: 50px;
+}
+#team-part .slick-slide img{
+    width: 100%;
+}
+
+#team-part .member{
+    margin-left: 14px;
+}
+
+#team-part .slick-slide{
+    width: 290px !important;
+}
+
+#team-part .prv{
+    top: 100%;
+    left: 40%;
+    box-shadow: 0 0 1px #000000;
+}
+
+#team-part .nxt{
+    top: 100%;
+    right: 25%;
+    box-shadow: 0 0 1px #000000;
+
+}
+
+.member-details ul li{
+    margin-left: -6px;
+    
+}
+
+.member-details ul{
+    padding-bottom: 6px;
+}
+
+/*===================== 
+team-part end
+====================  */
+
+/*===================== 
+profolio-part start
+====================  */
+
+#protfolio-part{
+    margin-top: 44px;
+}
+
+#protfolio-part .slick-list{
+    height: 312px;
+}
+
+#protfolio-part .m-b{
+    margin-bottom: 18px;
+}
+
+.prot-part-img{
+    margin-top: 0px;
+}
+
+#protfolio-part .prv{
+   top: 87%;
+    left: 40%;
+    transform: translateX(-50%);
+    margin-top: 15px;
+    -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+}
+
+#protfolio-part .nxt{
+    top: 87%;
+     left: 60%;
+     transform: translateX(-50%);
+     margin-top: 15px;
+     -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+ }
+
+ #protfolio-part .slick-slide img{
+     width: 100%;
+ }
+
+ #protfolio-part .prot-img-details{
+     padding-bottom: 50px;
+ }
+
+ #protfolio-part .prot-img-details{
+     width: 100%;
+ }
+
+ #protfolio-part .browse{
+     margin-top: 60px;
+ }
+ 
+ #protfolio-part .prot-img-details2{
+     padding-bottom: 15px;
+ }
+
+ #protfolio-part .prot-img img{
+     width: 100%;
+ }
+
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+testimonial-part start
+====================  */
+#testimonial-part{
+    margin-top: 50px;
+}
+
+#testimonial-part .testi-item{
+    display: flow-root;
+}
+
+#testimonial-part .test{
+    padding-right: 0;
+}
+
+#testimonial-part .slick-slide img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#testimonial-part .testi-item{
+    margin-top: 100px;
+}
+
+#testimonial-part .testi-img{
+    position: absolute;
+    top: -25%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+#testimonial-part{
+    padding-top: 30px;
+    padding-bottom: 65px;
+}
+
+#testimonial-part .testi-details{
+    padding-top: 99px;
+    padding-bottom: 20px;
+}
+
+#testimonial-part .pri{
+    top: 92%;
+     left: 40%;
+     transform: translateX(-50%);
+     margin-top: 15px;
+     -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+ }
+ 
+ #testimonial-part .ne{
+     top: 92%;
+      left: 60%;
+      transform: translateX(-50%);
+      margin-top: 15px;
+      -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+  }
+/*===================== 
+testimonial-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+
+#blog-part{
+    margin-top: 0px;
+}
+
+#blog-part .m-b{
+    margin-bottom: -7px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .blg{
+    padding: 0;
+}
+
+#blog-part .browse{
+    margin-top: 30px;
+}
+
+#blog-details .categori h3{
+    margin-top: 30px;
+}
+
+
+
+#blog-part .pr{
+    top: 87%;
+     left: 40%;
+     transform: translateX(-50%);
+     margin-top: 15px;
+     -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+ }
+ 
+ #blog-part .nt{
+     top: 87%;
+      left: 60%;
+      transform: translateX(-50%);
+      margin-top: 15px;
+      -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+  }
+
+  #blog-part .p-r{
+      padding-right: 15px !important;
+  }
+
+  #blog-part .blog-list{
+      display: flow-root;
+  }
+
+  #blog-par .p-l{
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+
+  .blog-item .date{
+      margin-top: 15px;
+  }
+
+  #blog-part .categori{
+      margin-left: 10px;
+  }
+
+  #blog-part .categori ul span{
+      right: 4%;
+  }
+
+  #blog-part .popular-item-text h3{
+      font-size: 14px;
+  }
+
+  #blog-part .popular-item-text span{
+      margin-top: 0;
+  }
+
+  #blog-part .popular-item .overlay{
+      height: 95%;
+  }
+
+  #blog-part .blog-list-img{
+    margin-right: 0;
+}
+
+#blog-part .blog-list-img img{
+    width: 100%;
+}
+
+#blog-part .blog-item{
+    margin-top: 33px;
+}
+
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+pagination-part start
+====================  */
+#pagination-part .t-c{
+    text-align: center;
+    display: block;
+}
+
+#pagination-part nav{
+    float: none;
+    margin-left: -14px;
+}
+
+#pagination-part .p-l{
+    padding-left: 0 !important;
+}
+
+#pagination-part .bar{
+    margin-bottom: 15px;
+}
+
+#blog-part .blg{
+    margin-bottom: 30px;
+}
+
+#blog-part .m-t{
+    margin-top: 0;
+}
+
+/*===================== 
+pagination-part end
+====================  */
+
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+blogdtails-part start
+====================  */
+
+#blog-details{
+    margin-top: 52px;
+}
+
+#blog-details .b-p{
+    padding: 0 30px !important;
+}
+
+#blog-details .blog-text h3{
+    font-size: 19px;
+}
+
+#blog-details .vdo img{
+    width: 100%;
+}
+
+#blog-details p{
+    margin-top: 15px;
+}
+
+#blog-details .tag a{
+    margin-top: 10px;
+}
+
+#blog-details .blog-text h3{
+    font-size: 14px;
+}
+
+#blog-details .footer-icon li{
+    margin-right: 0;
+}
+
+#blog-details .post-item{
+    display: flow-root;
+}
+
+#blog-details .post-img img{
+    width: 100%;
+}
+
+#blog-details .post-details h3{
+    margin-top: 15px;
+}
+
+#blog-details .post-border{
+    border-top: 1px solid #eeeeee;
+}
+
+#blog-details .post-details{
+    padding-bottom: 30px;
+}
+
+#comment-part .coment-title .leave1{
+    font-size: 0
+}
+
+#comment-part .leave2{
+    font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+font-weight: 600;
+color: #151515;
+padding-bottom: 30px;
+}
+
+#comment-part input{
+    margin-bottom: 15px;
+}
+
+#comment-part .p-r{
+    padding-right: 15px !important;
+}
+
+#comment-part .media{
+    display: flow-root;
+}
+
+#comment-part .meadia-margin-left{
+    margin-left: 80px;
+}
+
+
+#comment-part .media-body h5{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+#blog-details .p-l{
+    padding: 0 30px !important;
+}
+
+#blog-details .categori{
+    margin-left: 10px;
+}
+
+#blog-details .categori ul span{
+    right: 5%;
+}
+
+#blog-details .popular-item-text h3{
+    font-size: 14px;
+}
+
+#blog-details .popular-item-text .m-r{
+    margin-top: 0;
+}
+
+#blog-details .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-details .post .m-t{
+    border-top: 1px solid #eeeeee;
+}
+
+#blog-details .popular-item-text h3 a{
+    font-size: 14px;
+}
+
+#blog-details .post .p-l{
+    padding: 0 30px !important;
+}
+
+#comment-part .media-margin-left{
+    margin-left: 80px;
+}
+
+#blog-details .post-details ul li:last-child{
+    width: 140px;
+}
+
+
+#blog-details p{
+    margin-top: 0;
+}
+
+#blog-details .popular-item-text{
+    margin-left: 13px;
+}
+
+#blog-details .post-details ul li .post2{
+    width: 142px;
+}
+
+#blog-details .post-details ul li:last-child{
+    width: 74px;
+}
+
+#blog-details .post-details h3{
+    text-align: left;
+}
+
+#blog-details .post-details p{
+    text-align: left
+}
+
+#blog-details .blog-pera .p-t{
+    margin-top: 30px;
+}
+
+#blog-details .vdo-details{
+    margin-top: 30px;
+}
+
+/*===================== 
+blogdtails-part end
+====================  */
+
+/*===================== 
+pricing-part start
+====================  */
+#pricing-part{
+    margin-top: 50px;
+}
+
+.pricing-offer{
+    margin-left: 15px;
+    margin-top: 34px;
+}
+/*===================== 
+pricing-part end
+====================  */
+
+/*===================== 
+error-part start
+====================  */
+#error-part h2{
+    font-size: 165px;
+}
+/*===================== 
+error-part end
+====================  */
+
+/*===================== 
+service-part start
+====================  */
+#service-part{
+    padding-left: 0px;
+    margin-top: 50px;
+}
+
+#service-part .p-l{
+    padding-left: 0;
+}
+
+#comment-part .media .m-l{
+    margin-left: 80px;
+}
+
+/*===================== 
+service-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+#footer-part{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+
+#footer-part h3{
+    margin-top: 30px;
+}
+
+#footer-part a img{
+    margin-top: 30px;
+}
+
+#footer-part .footer-img li{
+    margin-bottom: 5px;
+    margin-right: 0;
+}
+
+#footer-bottom ul li{
+    margin-right: 0;
+}
+/*===================== 
+footer-part end
+====================  */
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    
+    /*===================== 
+navbar-part start
+====================  */
+#header-top{
+    height: 70px;
+    padding-top: 10px;
+}
+
+#header-top .wel{
+    line-height: 0;
+}
+
+#header-top .t-c{
+    text-align: center !important;
+}
+
+.navbar{
+    padding: 20px 10px;
+}
+
+nav{
+    height: 86px;
+}
+
+.navbar-collapse{
+    z-index: 222;
+}
+
+.navbar .navbar-nav{
+    text-align: center;
+    margin-top: 5px;
+    display: block;
+}
+
+.navbar .icon{
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 15px;
+}
+
+.srch-box input{
+    width: 90%;
+}
+
+.srch-box button{
+  left: 90%;
+
+}
+
+.srch-box .closebtn{
+    right: 15px;
+}
+
+.navbar-toggler{
+    padding: 5px;
+}
+
+.navbar ul{
+    background: #ffffff;
+}
+
+.navbar ul li{
+    padding: 3px 12px;
+    float: none;
+}
+
+.navbar ul li{
+    padding: 3px 12px;
+}
+
+/*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+banner-part start
+====================  */
+#banner-part{
+    padding: 62px 0;
+padding-bottom: 68px;
+}
+/*===================== 
+banner-part end
+====================  */
+
+/*===================== 
+about-part start
+====================  */
+#about-part{
+    margin-top: 65px;
+}
+
+#about-part img{
+    margin-top: 15px;
+}
+
+#about-part .about{
+    margin-bottom: 15px;
+}
+
+/*===================== 
+about-part end
+====================  */
+
+
+
+/*===================== 
+profolio-part start
+====================  */
+
+#protfolio-part{
+    margin-top: 50px;
+}
+
+.prot-part-img{
+    margin-top: 30px;
+}
+
+.prot-part-img{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#protfolio-part .prot-img-details{
+    width: 100%;
+}
+
+#protfolio-part .prv{
+    left: 30px;
+    top: 46%;
+}
+
+#protfolio-part .nxt{
+    right: calc(50% - 290px);
+    top: 46%;
+}
+
+#protfolio-part .slick-list{
+    height: 333px;
+}
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+testimonial-part start
+====================  */
+
+#testimonial-part{
+    margin-top: 70px;
+    padding: 40px 0;
+}
+
+#testimonial-part .testi-item{
+    margin-left: 10px;
+}
+
+#testimonial-part .testi-item{
+    margin-top: 30px;
+}
+
+#testimonial-part .testi-details{
+    padding-top: 18px;
+}
+
+#testimonial-part .san{
+    padding-top: 27px;
+}
+
+#testimonial-part .pri{
+    left: -10px;
+    top: calc(50% - -14px);
+}
+
+#testimonial-part .ne{
+    right: -10px;
+    top: calc(50% - -14px);
+}
+/*===================== 
+testimonial-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+
+#blog-part{
+    margin-top: 65px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .m-b{
+    margin-bottom: 26px;
+}
+
+#blog-part .blg{
+    padding: 0;
+}
+
+#blog-part .pr{
+    left: 20px;
+}
+
+#blog-details .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .nt{
+    right: -15px;
+}
+
+#blog-part .blog-list{
+    display: flow-root;
+    margin-top: 30px;
+}
+
+#blog-part .blog-list-img{
+    margin-right: 0;
+}
+
+#blog-part .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .blog-list-img img{
+    width: 100%;
+}
+
+#blog-part .browse{
+    margin-top: 8px;
+}
+
+.blog-item .date{
+    margin-top: 15px;
+}
+
+#blog-part .categori{
+    margin-left: 0;
+}
+
+#blog-part .popular-item .overlay{
+    height: 100%;
+}
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+skill-part start
+====================  */
+
+#skill-part{
+    margin-top: 64px;
+    background: #ffffff;
+}
+
+#skill-part .bar-r{
+    width: 100%;
+    right: 0;
+}
+/*===================== 
+skill-part end
+====================  */
+
+/*===================== 
+team-part start
+====================  */
+
+#team-part{
+    margin-left: 22px;
+}
+
+#team-part .member img{
+    width: 100%;
+}
+
+.member-details ul li{
+    margin-right: 7px;
+}
+
+#team-part .prv{
+    left: 15px;
+}
+
+#team-part .browse{
+    margin-top: 30px;
+}
+
+#team-part .slick-slide{
+    width: 240px !important;
+}
+
+#team-part .nxt{
+    right: -3%;
+}
+
+/*===================== 
+team-part end
+====================  */
+
+/*===================== 
+pagination-part start
+====================  */
+#pagination-part .bar{
+    margin-bottom: 15px;
+}
+
+#blog-part .blg{
+    margin-bottom: 30px;
+    padding-right: 15px;
+}
+
+#blog-part .m-t{
+    margin-top: 0;
+}
+
+#pagination-part .f-l{
+    float: right;
+}
+
+/*===================== 
+pagination-part end
+====================  */
+
+/*===================== 
+blogdtails-part start
+====================  */
+#blog-details{
+    margin-top: 80px;
+}
+
+#blog-details .b-p{
+    padding: 0 30px !important;
+}
+
+#blog-details .blog-text h3{
+    font-size: 19px;
+}
+
+#blog-details .vdo img{
+    width: 100%;
+}
+
+#blog-details p{
+    margin-top: 15px;
+}
+
+#blog-details .tag a{
+    margin-top: 10px;
+}
+
+#blog-details .post-item{
+    display: flow-root;
+}
+
+#blog-details .post-img img{
+    width: 100%;
+}
+
+#blog-details .post-details h3{
+    margin-top: 15px;
+}
+
+#blog-details .post-border{
+    border-top: 1px solid #eeeeee;
+}
+
+#blog-details .post-details{
+    padding-bottom: 30px;
+}
+
+#blog-details .blog-like .rgt-ul{
+    float: left;
+}
+
+#blog-details .blog-pera .p-t{
+    margin-top: 30px;
+}
+
+#comment-part .coment-title .leave1{
+    font-size: 0
+}
+
+#comment-part .leave2{
+    font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+font-weight: 600;
+color: #151515;
+padding-bottom: 30px;
+}
+
+#comment-part input{
+    margin-bottom: 15px;
+}
+
+#comment-part .p-r{
+    padding-right: 15px !important;
+}
+
+#blog-details .p-l{
+    padding: 0 30px !important;
+}
+
+#blog-details .categori{
+    margin-left: 0;
+}
+
+#blog-details .categori-p-l{
+    padding-left: 0 !important;
+}
+
+#blog-details .post .m-t{
+    border-top: 1px solid #eeeeee;
+
+}
+
+#blog-details .popular{
+    margin-left: 0;
+}
+
+#blog-details .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-details p{
+    margin-top: 0;
+}
+
+#blog-details .post-details ul li .post2{
+    width: 142px;
+}
+
+#blog-details .post-details ul li:last-child{
+    width: 74px;
+}
+
+#blog-details .post-details h3{
+    text-align: left;
+}
+
+#blog-details .post-details p{
+    text-align: left
+}
+
+#blog-details .blog-pera .p-t{
+    margin-top: 30px;
+}
+
+#blog-details .vdo-details{
+    margin-top: 30px;
+}
+
+
+
+
+/*===================== 
+blogdtails-part end
+====================  */
+
+/*===================== 
+protfolio-part start
+====================  */
+#protfolio-part{
+    margin-top: 64px;
+}
+
+#protfolio-part .m-b{
+    margin-block-end: 0;
+}
+
+
+
+/*===================== 
+protfolio-part end
+====================  */
+
+/*===================== 
+service-part start
+====================  */
+
+#service-part{
+    margin-top: 70px;
+    padding-top: 44px;
+padding-bottom: 0px;
+}
+
+.ser{
+    margin-top: 19px;
+}
+
+.ser:hover .service-overlay{
+    width: 100%;
+}
+
+#counter-part{
+    margin-top: 70px;
+}
+
+#counter-part span{
+    font-size: 20px;
+}
+
+/*===================== 
+service-part end
+====================  */
+
+/*===================== 
+pricing-part start
+====================  */
+#pricing-part{
+    margin-top: 70px;
+}
+/*===================== 
+pricing-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+
+#footer-part{
+    margin-top: 50px;
+}
+
+#footer-part .footer-img li{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+#footer-part .m-t{
+    margin-top: 30px;
+}
+
+#footer-part .p-l{
+    padding-left: 15px !important;
+}
+
+#footer-part .footer-icon li{
+    margin-right: 7px;
+}
+/*===================== 
+footer-part end
+====================  */
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+     /*===================== 
+navbar-part start
+====================  */
+#header-top{
+    padding-top: 10px;
+}
+
+#header-top .wel{
+    line-height: 0;
+}
+
+.navbar{
+    padding: 20px 10px;
+}
+
+.navbar .navbar-nav{
+    text-align: center;
+    margin-top: 34px;
+    display: block;
+    background: #ffffff;
+}
+
+.navbar ul li{
+    padding: 4px 12px;
+    float: none;
+}
+
+.navbar .icon{
+    text-align: center;
+    background: #fff;
+margin-top: 0px;
+padding-bottom: 20px;
+}
+
+.srch-box input{
+    width: 90%;
+}
+
+.srch-box button{
+  left: 90%;
+
+}
+
+.srch-box .closebtn{
+    right: 15px;
+}
+
+.navbar-toggler{
+    padding: 5px;
+}
+/*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+skill-part start
+====================  */
+
+/*===================== 
+skill-part end
+====================  */
+#skill-part .bar-r{
+    right: -37%;
+}
+/*===================== 
+service-part start
+====================  */
+
+#service-part{
+    margin-top: 0;
+}
+
+#service-part .nx{
+    left: 49%;
+}
+
+.service-item .icon-details{
+    padding-top: 12px;
+    padding-right: 15px;
+}
+
+#comment-part{
+    margin-top: 20px !important;
+}
+
+/*===================== 
+service-part end
+====================  */
+
+/*===================== 
+profolio-part start
+====================  */
+
+#protfolio-part{
+    margin-top: 75px;
+}
+.prot-part-img{
+    margin-left: 15px;
+margin-right: 15px;
+}
+#protfolio-part .prot-img-details{
+    width: 100%;
+}
+
+#protfolio-part .prv{
+    left: 28px;
+}
+
+#protfolio-part .nxt{
+    right: -20px;
+}
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+#blog-part{
+    margin-top: 0px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .pr{
+    left: 18px;
+}
+
+#blog-part .nt{
+    right: -1px;
+}
+
+#blog-part .categori{
+    margin-left: 0;
+}
+
+#blog-part .categori ul span{
+    right: 4%;
+}
+
+#blog-details .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-part .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .tag a{
+    margin-right: 9px;
+}
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+pagination-part start
+====================  */
+#blog-part .blg{
+    margin-bottom: 30px;
+}
+
+#blog-part .m-t{
+    margin-top: 0;
+}
+
+#pagination-part .p-l{
+    padding-left: 15px !important;
+}
+
+#pagination-part .f-l{
+    float: right;
+}
+
+/*===================== 
+pagination-part end
+====================  */
+
+/*===================== 
+team-part start
+====================  */
+
+#team-part{
+    margin-left: 22px;
+}
+
+.ser:hover .service-overlay{
+    width: 98%;
+}
+
+#team-part .member img{
+    width: 100%;
+}
+
+#team-part .prv{
+    left: 15px;
+}
+
+#team-part .nxt{
+    right: -11px;
+}
+
+#team-part .slick-list{
+    height: 448px;
+}
+
+#team-part .slick-slide{
+    width: 330px !important;
+}
+
+.member-details ul li{
+    margin-right: 17px;
+}
+
+/*===================== 
+team-part end
+====================  */
+
+/*===================== 
+blogdetails-part start
+====================  */
+#blog-details .vdo img{
+    width: 100%;
+}
+
+#blog-details .vdo{
+    margin-bottom: 15px;
+}
+
+#blog-details .tag a{
+    margin-right: 6px;
+}
+
+#blog-details .post-border{
+    border-top: 1px solid #eeeeee;
+    padding-top: 30px;
+}
+
+#blog-details .post-details{
+    padding-bottom: 30px;
+}
+
+
+#comment-part .coment-title .leave1{
+    font-size: 0
+}
+
+#comment-part .leave2{
+    font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+font-weight: 600;
+color: #151515;
+padding-bottom: 30px;
+}
+
+#comment-part input{
+    margin-bottom: 15px;
+}
+
+#comment-part .p-r{
+    padding-right: 15px !important;
+}
+
+#blog-details .p-l{
+    padding: 0 30px !important;
+}
+
+#blog-details .categori{
+    margin-left: 0;
+}
+
+#blog-details .popular{
+    margin-left: 0;
+}
+
+#blog-details .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-details .post .b-l{
+    border-top: 1px solid #eeeeee;
+    padding-top: 30px;
+}
+
+#blog-details .post-item{
+    padding-top: 30px;
+}
+
+
+#blog-details .categori-p-l{
+    padding-left: 0 !important;
+}
+
+#counter-part{
+    margin-top: 35px;
+}
+
+
+/*===================== 
+blogdetails-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+
+#footer-part{
+    margin-top: 50px;
+}
+
+#footer-part .footer-img li{
+    margin-bottom: 9px;
+    margin-right: 9px;
+}
+
+#footer-part .m-t{
+    margin-top: 30px;
+}
+
+#footer-part .p-l{
+    padding-left: 15px !important;
+}
+
+#footer-part .footer-icon li{
+    margin-right: 7px;
+}
+/*===================== 
+footer-part end
+====================  */
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    /*===================== 
+navbar-part start
+====================  */
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+skill-part start
+====================  */
+#skill-part .bar-r{
+    width: 100%;
+    right: 0;
+}
+
+/*===================== 
+skill-part end
+====================  */
+
+/*===================== 
+profolio-part start
+====================  */
+
+.prot-part-img{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#protfolio-part .prv{
+    left: calc(50% - 130px);
+    top: 41%;
+}
+
+#protfolio-part .nxt{
+    right: calc(50% - 180px);
+    top: 41%;
+}
+
+#protfolio-part .slick-list{
+    height: 395px;
+}
+
+#protfolio-part .prot-img-details{
+    width: 100%;
+}
+
+
+#testimonial-part .san{
+    padding-top: 6px;
+}
+
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+testimonial-part start
+====================  */
+#testimonial-part .testi-item{
+    margin-left: 15px;
+}
+
+#testimonial-part .pri{
+    left: -12px;
+}
+
+
+/*===================== 
+testimonial-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+#blog-part{
+    margin-top: 0px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .pr{
+    left: calc(50% - 143px );
+}
+
+#blog-part .nt{
+    right: calc(50% - 163px );
+}
+
+#blog-part .popular-item-text h3{
+    font-size: 14px;
+}
+
+#blog-details .popular-item-text h3 a{
+    font-size: 14px;
+}
+
+#blog-part .popular-item-text span{
+    margin-top: 0;
+}
+
+#blog-part .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-part .categori ul span{
+    right: 5%;
+}
+
+#blog-details .post-details h3 a{
+    font-size: 16px;
+}
+
+#blog-details .prre{
+    bottom: -18px;
+}
+
+#blog-details .nxxt{
+    bottom: -18px;
+    right: 33%;
+}
+
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+pagination-part start
+====================  */
+#pagination-part .p-l{
+    padding-left: 15px !important;
+}
+/*===================== 
+pagination-part end
+====================  */
+
+/*===================== 
+counter-part start
+====================  */
+
+#counter-part{
+    margin-top: 35px;
+}
+
+#counter-part span{
+    font-size: 25px;
+}
+
+#team-part .member img{
+    width: 100%;
+}
+
+.member-details ul li{
+    margin-right: 13px;
+}
+
+#team-part .prv{
+    left: calc(50% - 147px );
+}
+
+#team-part .nxt{
+    right: calc(50% - 173px );
+}
+
+#team-part .slick-slide{
+    width: 290px !important;
+}
+
+/*===================== 
+counter-part end
+====================  */
+
+
+/*===================== 
+blogdtails-part start
+====================  */
+#blog-details .b-p{
+    padding: 0 30px !important;
+}
+
+#blog-details .vdo img{
+    width: 100%;
+}
+
+#blog-details .vdo-detail{
+    margin: 10px 0;
+}
+
+#blog-details .post-details h3{
+    font-size: 16px;
+}
+
+#blog-details .post-details
+{
+    margin-left: 15px;
+}
+
+#blog-details .post-details h3{
+    font-size: 14px;
+}
+
+#blog-details .post-details ul li p{
+    line-height: 23px;
+}
+
+#comment-part .leave2{
+    font-size: 0;
+}
+
+#blog-details .p-l{
+    padding: 0 30px !important;
+}
+
+#blog-details .post-img img{
+    width: 100%;
+}
+
+#blog-details .post-details ul{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#blog-details .post-details2{
+    margin-left: -35px;
+}
+
+#blog-details .post-details p{
+    font-size: 16px;
+}
+
+#blog-details .popular-item-text h3{
+    font-size: 14px;
+}
+
+#blog-details .popular-item-text span{
+    margin-top: 0;
+}
+
+#blog-details .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-details .tag a{
+    margin-top: 10px;
+}
+
+#blog-details .nav-tabs .nav-link{
+    font-size: 16px;
+}
+
+/*===================== 
+blogdtails-part end
+====================  */
+
+/*===================== 
+ourservice-part start
+====================  */
+
+#service-part{
+    margin-top: 0px;
+}
+
+.service-item .icon-details{
+    padding-top: 13px;
+}
+
+#service-part .nx{
+    bottom: -28px;
+}
+
+.service-item .icon-details{
+    padding-top: 7px;
+}
+
+.service-item .icon-details .ui{
+    padding-bottom: 5px;
+}
+
+#comment-part .coment-title .leave2{
+    font-size: 0;
+}
+
+/*===================== 
+ourservice-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+
+#footer-part{
+    margin-top: 50px;
+}
+#footer-part .p-l{
+    padding-left: 15px !important;
+}
+
+#footer-part .footer-icon li{
+    margin-right: -1px;
+}
+
+#footer-part .footer-img li{
+    margin-right: -2px;
+    margin-bottom: 2px;
+}
+/*===================== 
+footer-part end
+====================  */
+
+
+}
